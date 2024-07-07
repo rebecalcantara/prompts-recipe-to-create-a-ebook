@@ -43,7 +43,7 @@ ChatGPT：
       align=left 
       margin=10 
       width=80 
-      src="https://https://avatars.githubusercontent.com/u/169102464?s=400&u=1b34e94dafcb7d99cc841478e9eb4697d0813f20&v=4"
+      src="https://avatars.githubusercontent.com/u/169102464?v=4"
     />
     <p>&nbsp&nbsp&nbspRebeca Alcantara<br>
     &nbsp&nbsp&nbsp
